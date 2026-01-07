@@ -1,8 +1,8 @@
-<h1 align="left">Hello There :3</h1>
+<h1 align="left">Hello There</h1>
 
 ###
 
-<p align="left">I'm currently a student deeply immersed in the world of computer science. My interests gravitate towards cybersecurity and the intricacies of low-level programming languages. I find joy in exploring how software interacts with hardware at its most fundamental levels.</p>
+<p align="left">I am a programmer who loves to learn. My interests are cybersecurity and how things works behind the scenes. I love exploring how software interacts with hardware at its most fundamental levels.</p>
 
 ###
 
